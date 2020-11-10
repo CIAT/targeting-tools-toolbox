@@ -17,7 +17,7 @@ Targeting toolbox is an ArcGIS toolbox (.pyt) purely developed using Python prog
 
 ## Download & Install
 
-1. Download the [Targeting Tools 0.5.3](https://github.com/CIAT/targeting-tools-toolbox/archive/v0.5.4.zip) toolbox
+1. Download the [Targeting Tools 0.5.4](https://github.com/CIAT/targeting-tools-toolbox/archive/v0.5.4.zip) toolbox
 
 2. Move the zip file to the directory where you want to store the toolbox.
 
