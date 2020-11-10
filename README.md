@@ -17,7 +17,7 @@ Targeting toolbox is an ArcGIS toolbox (.pyt) purely developed using Python prog
 
 ## Download & Install
 
-1. Download the [Targeting Tools 0.5.3](https://github.com/nkoech/Targeting_Tools_10_1/releases/download/V0.5.3/Targeting_Tools_0.5.3.zip) toolbox
+1. Download the [Targeting Tools 0.5.3](https://github.com/CIAT/targeting-tools-toolbox/archive/v0.5.4.zip) toolbox
 
 2. Move the zip file to the directory where you want to store the toolbox.
 
@@ -25,19 +25,19 @@ Targeting toolbox is an ArcGIS toolbox (.pyt) purely developed using Python prog
 
 4. Open ArcMap 10.1 or any version above it, and click Geoprocessing > ArcToolbox.
 
-	![Geoprocessing > ArcToolbox](https://raw.githubusercontent.com/nkoech/Targeting_Tools_10_1/master/img/gp_arctoolbox.png)
+	![Geoprocessing > ArcToolbox](https://raw.githubusercontent.com/CIAT/targeting-tools-toolbox/master/img/gp_arctoolbox.png)
 
 5. Right-click the ArcToolbox window, and click Add Toolbox.
 
-	![Add ArcToolbox](https://raw.githubusercontent.com/nkoech/Targeting_Tools_10_1/master/img/add_toolbox.png)
+	![Add ArcToolbox](https://raw.githubusercontent.com/CIAT/targeting-tools-toolbox/master/img/add_toolbox.png)
 
 6. In the Add Toolbox window, click the Connect to Folder icon and navigate to the location of the toolbox. Select the Targeting Tools.pyt file and click Open. The Targeting toolbox appears in the ArcToolbox window.
 
-	![Targeting Toolbox](https://raw.githubusercontent.com/nkoech/Targeting_Tools_10_1/master/img/targeting_toolbox.png)
+	![Targeting Toolbox](https://raw.githubusercontent.com/CIAT/targeting-tools-toolbox/master/img/targeting_toolbox.png)
 
 7. Start using the Targeting toolbox!
 
-	![Targeting tool window](https://raw.githubusercontent.com/nkoech/Targeting_Tools_10_1/master/img/targeting_toolbox_window.png)
+	![Targeting tool window](https://raw.githubusercontent.com/CIAT/targeting-tools-toolbox/master/img/targeting_toolbox_window.png)
 
 ## License
 
